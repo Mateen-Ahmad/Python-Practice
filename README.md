@@ -1,2 +1,3 @@
 # Python-Practice
-Here I will be palying with python thrugh basic algorithms.
+Here I will be palying with python through basic algorithms.
+Happy Hacking
